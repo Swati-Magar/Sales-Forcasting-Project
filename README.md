@@ -1,63 +1,36 @@
-# Sales-Forcasting-Project
+📌 Project Headline
 
-✨ Sales Forecasting Project – End-to-End Workflow ✨
+Sales Forecasting & Analysis – InternBoot (Data Analyst Intern)
 
-Over the past few days, I worked on applying time-series analysis and machine learning techniques to the Store Sales – Time Series Forecasting dataset (Kaggle). Here’s a quick breakdown of my learning journey:
+🛠️ Technologies Used
 
-🔹 Task 1: Exploratory Sales Analysis (EDA)
+Python
 
-Cleaned and explored sales data with Pandas.
+Pandas, NumPy
 
-Generated descriptive statistics (mean, median, mode).
+Matplotlib, Seaborn
 
-Visualized sales trends, seasonality, and weekday effects.
+Scikit-learn
 
-🔹 Task 2: Simple Forecast with Moving Average
+📊 Outcome
 
-Implemented rolling averages (7-day & 30-day).
+Built sales forecasting models (Linear, Ridge, Lasso).
 
-Compared forecasts vs. actual sales.
+Improved prediction accuracy with feature engineering & external data integration.
 
-Visualized smoothing trends with line plots.
+Gained hands-on experience in EDA, time-series analysis, and regression modeling.
 
-🔹 Task 3: Feature Engineering for Sales Data
+🌍 Impact
 
-Extracted year, month, weekday from date.
+Learned how holidays, promotions, and external factors influence sales.
 
-Created holiday & weekend flags.
+Developed forecasting techniques useful for business decision-making.
 
-Built lag features & rolling averages to capture temporal patterns.
+Strengthened practical skills in data cleaning, visualization, and predictive modeling.
 
-🔹 Task 4: Multiple Regression Model
+✨ Short Summary
 
-Trained a regression model using promotions, holidays, and lag features.
+As a Data Analyst Intern at InternBoot, I explored sales data through EDA, created new features, applied regression models, and enhanced predictions with external datasets like oil prices and holidays. This project helped me connect data insights to real-world forecasting impact. 🚀
 
-Evaluated model using RMSE & MAE.
 
-Analyzed feature coefficients for insights.
 
-🔹 Task 5: Regularized Regression (Ridge & Lasso)
-
-Applied Ridge/Lasso regression to avoid overfitting.
-
-Compared with linear regression baseline.
-
-Used Lasso for feature selection (zeroing out weak predictors).
-
-🔹 Task 6: Regression with External Data
-
-Enhanced models by merging oil prices & holiday events.
-
-Observed accuracy improvements in forecasting.
-
-Learned how external factors boost predictive power.
-
-✅ Key Learnings:
-
-Importance of feature engineering in time-series.
-
-How regularization techniques improve generalization.
-
-Value of incorporating external datasets in forecasting.
-
-Practical use of Python, Pandas, Matplotlib/Seaborn, and Scikit-learn.
