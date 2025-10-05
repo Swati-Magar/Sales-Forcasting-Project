@@ -1,37 +1,41 @@
-📌 Project Headline
+📊 Sales Forecasting Project – Beginner Level
 
-Sales Forecasting & Analysis – InternBoot (Data Analyst Intern)
+This project is part of my internship at Internboot
+ in collaboration with E2B.
+The goal of this project is to analyze sales data and build a basic forecasting model using simple techniques like EDA and Moving Averages.
 
-🛠️ Technologies Used
+🧰 Tech Stack
 
-Python
+Languages & Libraries: Python, Pandas, Matplotlib, Seaborn
 
-Pandas, NumPy
+Dataset: Kaggle Store Sales Dataset
 
-Matplotlib, Seaborn
+📝 Task 1: Exploratory Sales Analysis
 
-Scikit-learn
+Loaded and cleaned the dataset using Pandas.
 
-📊 Outcome
+Calculated descriptive statistics (mean, median, mode).
 
-Built sales forecasting models (Linear, Ridge, Lasso).
+Visualized sales trends using line and bar charts.
 
-Improved prediction accuracy with feature engineering & external data integration.
+Identified missing values and seasonal patterns.
 
-Gained hands-on experience in EDA, time-series analysis, and regression modeling.
+📚 Learning Outcome: Learned how to clean data, explore it, and create basic visualizations to understand trends.
 
-🌍 Impact
+📝 Task 2: Simple Sales Forecast with Moving Average
 
-Learned how holidays, promotions, and external factors influence sales.
+Calculated weekly and monthly rolling averages.
 
-Developed forecasting techniques useful for business decision-making.
+Compared the forecasted values with actual sales.
 
-Strengthened practical skills in data cleaning, visualization, and predictive modeling.
+Plotted trend lines to see sales patterns over time.
 
-✨ Short Summary
+📚 Learning Outcome: Understood how moving averages help in forecasting and smoothing data trends.
 
-As a Data Analyst Intern at InternBoot, I explored sales data through EDA, created new features, applied regression models, and enhanced predictions with external datasets like oil prices and holidays. This project helped me connect data insights to real-world forecasting impact. 🚀
+📈 Key Takeaways
 
+Got hands-on experience in data analysis and visualization.
 
+Learned simple time series forecasting methods.
 
-
+Built a strong foundation for more advanced forecasting techniques.
